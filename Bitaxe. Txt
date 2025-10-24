@@ -1,0 +1,70 @@
+(7456608) websocket: Added WebSocket client, fd: 47, slot: 0
+₿ (7456609) websocket: WebSocket handshake successful, fd: 47
+₿ (7457115) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e299","7e0a5526bf9d9bb720679ff0c153f3667d8eb49b985120240000000100000000","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff23049eac54010418fefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","1907937b","68fbfe18",true]}
+₿ (7457150) stratum_task: Clean Jobs: clearing queue
+₿ (7457171) create_jobs_task: New Work Dequeued e299
+₿ (7457974) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 66.3% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7459783) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.2% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7461591) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.4% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7461641) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e29a","ae9532ca9fd0667053d34a71fdf3d982f3ed39f7ddc78875dc1cad47535eba32","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff23049fac5401041dfefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","1907d6f3","68fbfe1d",true]}
+₿ (7461676) stratum_task: Clean Jobs: clearing queue
+₿ (7461778) create_jobs_task: New Work Dequeued e29a
+₿ (7463400) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.4% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7464718) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e29b","6905e6ec5f7bb65006502ea3eb21095f6bdde28bf388636c0000000200000000","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff2304a0ac5401041dfefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","1907082e","68fbfe1d",true]}
+₿ (7464754) stratum_task: Clean Jobs: clearing queue
+₿ (7464759) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e29c","b39674c370bd7dd11da92038d79f67a4dcc7c6b37486fa020000000300000000","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff2304a1ac5401041ffefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","19064ca9","68fbfe1f",true]}
+₿ (7464785) create_jobs_task: New Work Dequeued e29b
+₿ (7464810) create_jobs_task: New Work Dequeued e29c
+₿ (7465207) power_management: Temp: 59.9 °C, SetPoint: 60.0 °C, Output: 62.3% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7467016) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 66.7% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7468825) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.2% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7470633) power_management: Temp: 60.2 °C, SetPoint: 60.0 °C, Output: 68.7% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7472441) power_management: Temp: 59.9 °C, SetPoint: 60.0 °C, Output: 62.0% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7473403) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e29d","b4f2729424ac18c45e1a2a360328577ceefd637c31112524b785d04445d654e6","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff2304a2ac54010428fefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","190688e7","68fbfe28",true]}
+₿ (7473438) stratum_task: Clean Jobs: clearing queue
+₿ (7473524) create_jobs_task: New Work Dequeued e29d
+₿ (7474248) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.7% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7474932) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e29e","32ba9cd055c69b47bef96baac168ce5836a84be8fcdcb8161d03c14c2806f7e9","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff2304a3ac5401042afefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","1906ce09","68fbfe2a",true]}
+₿ (7474967) stratum_task: Clean Jobs: clearing queue
+₿ (7475030) create_jobs_task: New Work Dequeued e29e
+₿ (7476055) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.5% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7477864) power_management: Temp: 59.9 °C, SetPoint: 60.0 °C, Output: 62.4% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7479674) power_management: Temp: 59.9 °C, SetPoint: 60.0 °C, Output: 62.5% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7481482) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 66.7% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7483289) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.2% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7485096) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 66.6% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7485686) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e29f","41f15b8960ce51f9f4cf8875ce2978ef218779afd0af16b20fec671b7d28be94","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff2304a4ac54010435fefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","19070f1a","68fbfe35",true]}
+₿ (7485721) stratum_task: Clean Jobs: clearing queue
+₿ (7485736) create_jobs_task: New Work Dequeued e29f
+₿ (7486905) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.3% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7488713) power_management: Temp: 59.8 °C, SetPoint: 60.0 °C, Output: 60.2% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7490499) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e2a0","be8734d9a44371ba354c6d5c1ff7fa8c462f2ab3b0ec9c770000000200000000","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff2304a5ac5401043afefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","19064890","68fbfe3a",true]}
+₿ (7490522) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 66.9% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7490534) stratum_task: Clean Jobs: clearing queue
+₿ (7490643) create_jobs_task: New Work Dequeued e2a0
+₿ (7492351) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.2% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7494159) power_management: Temp: 60.2 °C, SetPoint: 60.0 °C, Output: 68.7% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7494287) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e2a1","95031e76507544ec18ee3f9d60358ea95e2325362b85ba3e69bba91ac837c401","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff2304a6ac5401043efefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","1906849f","68fbfe3e",true]}
+₿ (7494323) stratum_task: Clean Jobs: clearing queue
+₿ (7494349) create_jobs_task: New Work Dequeued e2a1
+₿ (7495966) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.1% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7497774) power_management: Temp: 59.9 °C, SetPoint: 60.0 °C, Output: 62.4% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7499583) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.7% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7501390) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.5% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7503207) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.5% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7505016) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 66.6% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7506823) power_management: Temp: 59.8 °C, SetPoint: 60.0 °C, Output: 60.1% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7508631) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 67.0% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7509339) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e2a2","32a31f82979b948d48e24acd846e33c47a7b908f702f9f62ee865f40fc220a16","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff2304a7ac5401044dfefb680c","736f6c6f706f6f6c2e6f726700000000024819d29a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9edd78b981b45a44b40edaf1def9b6f4878286c1430979c5bc98ed7a7bf841e625100000000",["008c6357caf3ff76c85ef743bd2f52588cb83529c960c51324cdacbc1dac642d"],"20000202","1906c0af","68fbfe4d",true]}
+₿ (7509380) stratum_task: Clean Jobs: clearing queue
+₿ (7509457) create_jobs_task: New Work Dequeued e2a2
+₿ (7510440) power_management: Temp: 60.2 °C, SetPoint: 60.0 °C, Output: 68.5% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7512249) power_management: Temp: 60.0 °C, SetPoint: 60.0 °C, Output: 64.2% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7514056) power_management: Temp: 60.4 °C, SetPoint: 60.0 °C, Output: 71.0% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7515865) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 66.2% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7517675) power_management: Temp: 59.8 °C, SetPoint: 60.0 °C, Output: 60.3% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7519170) stratum_api: rx: {"id":null,"method":"mining.notify","params":["e2a3","b208d7bb915651a3e34870167e51cdb596393fc30708a19d8c9d9d83d9cb839b","01000000010000000000000000000000000000000000000000000000000000000000000000ffffffff2304a8ac54010456fefb680c","736f6c6f706f6f6c2e6f726700000000021be2d19a060000001976a9146e69df29d2f9e525fee32d2444c4e41cff11ca8388ac0000000000000000266a24aa21a9ede2f61c3f71d1defd3fa999dfa36953755c690689799962b48bebd836974e8cf900000000",[],"20000202","1906fa40","68fbfe56",true]}
+₿ (7519206) stratum_task: Clean Jobs: clearing queue
+₿ (7519268) create_jobs_task: New Work Dequeued e2a3
+₿ (7519482) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 67.2% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
+₿ (7521290) power_management: Temp: 60.1 °C, SetPoint: 60.0 °C, Output: 66.6% (P:15.0 I:0.2 D_val:3.0 D_start_val:20.0)
